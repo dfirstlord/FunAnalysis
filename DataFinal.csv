@@ -1,0 +1,649 @@
+No,Kode Saham,Industri,Sector
+1,DMMX.JK,Advertising Agencies,Communication Services
+2,FORU.JK,Advertising Agencies,Communication Services
+3,GMFI.JK,Aerospace & Defense,Industrials
+4,KPAL.JK,Aerospace & Defense,Industrials
+5,BISI.JK,Agricultural Inputs,Basic Materials
+6,CASS.JK,Airports & Air Services,Industrials
+7,GIAA.JK,Airports & Air Services,Industrials
+8,HELI.JK,Airports & Air Services,Industrials
+9,IATA.JK,Airports & Air Services,Industrials
+10,ALKA.JK,Aluminum,Basic Materials
+11,ALMI.JK,Aluminum,Basic Materials
+12,INAI.JK,Aluminum,Basic Materials
+13,ERTX.JK,Apparel Manufacturing,Consumer Cyclical
+14,PBRX.JK,Apparel Manufacturing,Consumer Cyclical
+15,POLU.JK,Apparel Manufacturing,Consumer Cyclical
+16,RICY.JK,Apparel Manufacturing,Consumer Cyclical
+17,TRIS.JK,Apparel Manufacturing,Consumer Cyclical
+18,ZONE.JK,Apparel Retail,Consumer Cyclical
+19,BPII.JK,Asset Management,Financial Services
+20,PADI.JK,Asset Management,Financial Services
+21,SFAN.JK,Asset Management,Financial Services
+22,SRTG.JK,Asset Management,Financial Services
+23,STAR.JK,Asset Management,Financial Services
+24,VICO.JK,Asset Management,Financial Services
+25,BOGA.JK,Auto & Truck Dealerships,Consumer Cyclical
+26,CARS.JK,Auto & Truck Dealerships,Consumer Cyclical
+27,IMAS.JK,Auto & Truck Dealerships,Consumer Cyclical
+28,MPMX.JK,Auto & Truck Dealerships,Consumer Cyclical
+29,TURI.JK,Auto & Truck Dealerships,Consumer Cyclical
+30,ASII.JK,Auto Parts,Consumer Cyclical
+31,AUTO.JK,Auto Parts,Consumer Cyclical
+32,BRAM.JK,Auto Parts,Consumer Cyclical
+33,GDYR.JK,Auto Parts,Consumer Cyclical
+34,GJTL.JK,Auto Parts,Consumer Cyclical
+35,INDS.JK,Auto Parts,Consumer Cyclical
+36,KMTR.JK,Auto Parts,Consumer Cyclical
+37,LPIN.JK,Auto Parts,Consumer Cyclical
+38,MASA.JK,Auto Parts,Consumer Cyclical
+39,PRAS.JK,Auto Parts,Consumer Cyclical
+40,SMSM.JK,Auto Parts,Consumer Cyclical
+41,AGRO.JK,Banks—Regional,Financial Services
+42,AGRS.JK,Banks—Regional,Financial Services
+43,ARTO.JK,Banks—Regional,Financial Services
+44,BABP.JK,Banks—Regional,Financial Services
+45,BACA.JK,Banks—Regional,Financial Services
+46,BBCA.JK,Banks—Regional,Financial Services
+47,BBHI.JK,Banks—Regional,Financial Services
+48,BBKP.JK,Banks—Regional,Financial Services
+49,BBMD.JK,Banks—Regional,Financial Services
+50,BBNI.JK,Banks—Regional,Financial Services
+51,BBRI.JK,Banks—Regional,Financial Services
+52,BBTN.JK,Banks—Regional,Financial Services
+53,BBYB.JK,Banks—Regional,Financial Services
+54,BCIC.JK,Banks—Regional,Financial Services
+55,BDMN.JK,Banks—Regional,Financial Services
+56,BEKS.JK,Banks—Regional,Financial Services
+57,BGTG.JK,Banks—Regional,Financial Services
+58,BINA.JK,Banks—Regional,Financial Services
+59,BJBR.JK,Banks—Regional,Financial Services
+60,BJTM.JK,Banks—Regional,Financial Services
+61,BKSW.JK,Banks—Regional,Financial Services
+62,BMAS.JK,Banks—Regional,Financial Services
+63,BMRI.JK,Banks—Regional,Financial Services
+64,BNBA.JK,Banks—Regional,Financial Services
+65,BNGA.JK,Banks—Regional,Financial Services
+66,BNII.JK,Banks—Regional,Financial Services
+67,BNLI.JK,Banks—Regional,Financial Services
+68,BRIS.JK,Banks—Regional,Financial Services
+69,BSIM.JK,Banks—Regional,Financial Services
+70,BTPN.JK,Banks—Regional,Financial Services
+71,BTPS.JK,Banks—Regional,Financial Services
+72,BVIC.JK,Banks—Regional,Financial Services
+73,DNAR.JK,Banks—Regional,Financial Services
+74,INPC.JK,Banks—Regional,Financial Services
+75,MAYA.JK,Banks—Regional,Financial Services
+76,MCOR.JK,Banks—Regional,Financial Services
+77,MEGA.JK,Banks—Regional,Financial Services
+78,NISP.JK,Banks—Regional,Financial Services
+79,NOBU.JK,Banks—Regional,Financial Services
+80,PNBN.JK,Banks—Regional,Financial Services
+81,PNBS.JK,Banks—Regional,Financial Services
+82,SDRA.JK,Banks—Regional,Financial Services
+83,DLTA.JK,Beverages—Brewers,Consumer Defensive
+84,MLBI.JK,Beverages—Brewers,Consumer Defensive
+85,ADES.JK,Beverages—Non-Alcoholic,Consumer Defensive
+86,ALTO.JK,Beverages—Non-Alcoholic,Consumer Defensive
+87,CLEO.JK,Beverages—Non-Alcoholic,Consumer Defensive
+88,EMTK.JK,Broadcasting,Communication Services
+89,MARI.JK,Broadcasting,Communication Services
+90,MDIA.JK,Broadcasting,Communication Services
+91,SCMA.JK,Broadcasting,Communication Services
+92,VIVA.JK,Broadcasting,Communication Services
+93,CTTH.JK,Building Materials,Basic Materials
+94,HKMU.JK,Building Materials,Basic Materials
+95,IMPC.JK,Building Materials,Basic Materials
+96,INTP.JK,Building Materials,Basic Materials
+97,SMBR.JK,Building Materials,Basic Materials
+98,SMCB.JK,Building Materials,Basic Materials
+99,SMGR.JK,Building Materials,Basic Materials
+100,WSBP.JK,Building Materials,Basic Materials
+101,WTON.JK,Building Materials,Basic Materials
+102,AMFG.JK,Building Products & Equipment,Industrials
+103,ARNA.JK,Building Products & Equipment,Industrials
+104,CAKK.JK,Building Products & Equipment,Industrials
+105,KIAS.JK,Building Products & Equipment,Industrials
+106,KOIN.JK,Building Products & Equipment,Industrials
+107,MLIA.JK,Building Products & Equipment,Industrials
+108,TOTO.JK,Building Products & Equipment,Industrials
+109,LION.JK,Business Equipment & Supplies,Industrials
+110,MCAS.JK,Business Equipment & Supplies,Industrials
+111,MDRN.JK,Business Equipment & Supplies,Industrials
+112,APIC.JK,Capital Markets,Financial Services
+113,BCAP.JK,Capital Markets,Financial Services
+114,KREN.JK,Capital Markets,Financial Services
+115,LPPS.JK,Capital Markets,Financial Services
+116,OCAP.JK,Capital Markets,Financial Services
+117,PANS.JK,Capital Markets,Financial Services
+118,PEGE.JK,Capital Markets,Financial Services
+119,RELI.JK,Capital Markets,Financial Services
+120,TRIM.JK,Capital Markets,Financial Services
+121,UNIT.JK,Capital Markets,Financial Services
+122,YULE.JK,Capital Markets,Financial Services
+123,AGII.JK,Chemicals,Basic Materials
+124,BRPT.JK,Chemicals,Basic Materials
+125,ETWA.JK,Chemicals,Basic Materials
+126,MOLI.JK,Chemicals,Basic Materials
+127,OKAS.JK,Chemicals,Basic Materials
+128,SRSN.JK,Chemicals,Basic Materials
+129,UNIC.JK,Chemicals,Basic Materials
+130,CCSI.JK,Communication Equipment,Technology
+131,KBLM.JK,Communication Equipment,Technology
+132,MKNT.JK,Communication Equipment,Technology
+133,SUPR.JK,Communication Equipment,Technology
+134,LUCK.JK,Computer Hardware,Technology
+135,COCO.JK,Confectioners,Consumer Defensive
+136,BMSR.JK,Conglomerates,Industrials
+137,BNBR.JK,Conglomerates,Industrials
+138,IMJS.JK,Conglomerates,Industrials
+139,JKON.JK,Conglomerates,Industrials
+140,KIJA.JK,Conglomerates,Industrials
+141,KINO.JK,Conglomerates,Industrials
+142,ADMF.JK,Credit Services,Financial Services
+143,BBLD.JK,Credit Services,Financial Services
+144,BFIN.JK,Credit Services,Financial Services
+145,BPFI.JK,Credit Services,Financial Services
+146,CFIN.JK,Credit Services,Financial Services
+147,DEFI.JK,Credit Services,Financial Services
+148,FUJI.JK,Credit Services,Financial Services
+149,HDFA.JK,Credit Services,Financial Services
+150,IBFN.JK,Credit Services,Financial Services
+151,MFIN.JK,Credit Services,Financial Services
+152,MGNA.JK,Credit Services,Financial Services
+153,POLA.JK,Credit Services,Financial Services
+154,TIFA.JK,Credit Services,Financial Services
+155,TRUS.JK,Credit Services,Financial Services
+156,VRNA.JK,Credit Services,Financial Services
+157,WOMF.JK,Credit Services,Financial Services
+158,HERO.JK,Department Stores,Consumer Cyclical
+159,LPPF.JK,Department Stores,Consumer Cyclical
+160,MAPI.JK,Department Stores,Consumer Cyclical
+161,MLPL.JK,Department Stores,Consumer Cyclical
+162,MPPA.JK,Department Stores,Consumer Cyclical
+163,RALS.JK,Department Stores,Consumer Cyclical
+164,PRDA.JK,Diagnostics & Research,Healthcare
+165,MIDI.JK,Discount Stores,Consumer Defensive
+166,KLBF.JK,Drug Manufacturers—General,Healthcare
+167,DVLA.JK,Drug Manufacturers—Specialty & Generic,Healthcare
+168,INAF.JK,Drug Manufacturers—Specialty & Generic,Healthcare
+169,KAEF.JK,Drug Manufacturers—Specialty & Generic,Healthcare
+170,MERK.JK,Drug Manufacturers—Specialty & Generic,Healthcare
+171,PEHA.JK,Drug Manufacturers—Specialty & Generic,Healthcare
+172,PYFA.JK,Drug Manufacturers—Specialty & Generic,Healthcare
+173,SIDO.JK,Drug Manufacturers—Specialty & Generic,Healthcare
+174,TSPC.JK,Drug Manufacturers—Specialty & Generic,Healthcare
+175,POOL.JK,Education & Training Services,Consumer Defensive
+176,IKBI.JK,Electrical Equipment & Parts,Industrials
+177,JECC.JK,Electrical Equipment & Parts,Industrials
+178,KBLI.JK,Electrical Equipment & Parts,Industrials
+179,SCCO.JK,Electrical Equipment & Parts,Industrials
+180,VOKS.JK,Electrical Equipment & Parts,Industrials
+181,PTSN.JK,Electronic Components,Technology
+182,BLUE.JK,Electronics & Computer Distribution,Technology
+183,LMAS.JK,Electronics & Computer Distribution,Technology
+184,MTDL.JK,Electronics & Computer Distribution,Technology
+185,SLIS.JK,Electronics & Computer Distribution,Technology
+186,ACST.JK,Engineering & Construction,Industrials
+187,ADHI.JK,Engineering & Construction,Industrials
+188,BUKK.JK,Engineering & Construction,Industrials
+189,DGIK.JK,Engineering & Construction,Industrials
+190,IDPR.JK,Engineering & Construction,Industrials
+191,JSMR.JK,Engineering & Construction,Industrials
+192,MTPS.JK,Engineering & Construction,Industrials
+193,MTRA.JK,Engineering & Construction,Industrials
+194,NRCA.JK,Engineering & Construction,Industrials
+195,OASA.JK,Engineering & Construction,Industrials
+196,PBSA.JK,Engineering & Construction,Industrials
+197,PKPK.JK,Engineering & Construction,Industrials
+198,PPRE.JK,Engineering & Construction,Industrials
+199,PTPP.JK,Engineering & Construction,Industrials
+200,SSIA.JK,Engineering & Construction,Industrials
+201,TOPS.JK,Engineering & Construction,Industrials
+202,TOTL.JK,Engineering & Construction,Industrials
+203,WEGE.JK,Engineering & Construction,Industrials
+204,WIKA.JK,Engineering & Construction,Industrials
+205,WSKT.JK,Engineering & Construction,Industrials
+206,BHIT.JK,Entertainment,Communication Services
+207,BLTZ.JK,Entertainment,Communication Services
+208,BMTR.JK,Entertainment,Communication Services
+209,DYAN.JK,Entertainment,Communication Services
+210,FILM.JK,Entertainment,Communication Services
+211,IPTV.JK,Entertainment,Communication Services
+212,KBLV.JK,Entertainment,Communication Services
+213,MNCN.JK,Entertainment,Communication Services
+214,MSIN.JK,Entertainment,Communication Services
+215,MSKY.JK,Entertainment,Communication Services
+216,KOBX.JK,Farm & Heavy Construction Machinery,Industrials
+217,AALI.JK,Farm Products,Consumer Defensive
+218,ANDI.JK,Farm Products,Consumer Defensive
+219,ANJT.JK,Farm Products,Consumer Defensive
+220,BTEK.JK,Farm Products,Consumer Defensive
+221,BWPT.JK,Farm Products,Consumer Defensive
+222,CPIN.JK,Farm Products,Consumer Defensive
+223,CPRO.JK,Farm Products,Consumer Defensive
+224,DSFI.JK,Farm Products,Consumer Defensive
+225,DSNG.JK,Farm Products,Consumer Defensive
+226,FISH.JK,Farm Products,Consumer Defensive
+227,GOLL.JK,Farm Products,Consumer Defensive
+228,GZCO.JK,Farm Products,Consumer Defensive
+229,IIKP.JK,Farm Products,Consumer Defensive
+230,JAWA.JK,Farm Products,Consumer Defensive
+231,JPFA.JK,Farm Products,Consumer Defensive
+232,LSIP.JK,Farm Products,Consumer Defensive
+233,MAGP.JK,Farm Products,Consumer Defensive
+234,MAIN.JK,Farm Products,Consumer Defensive
+235,PALM.JK,Farm Products,Consumer Defensive
+236,PSGO.JK,Farm Products,Consumer Defensive
+237,SGRO.JK,Farm Products,Consumer Defensive
+238,SIMP.JK,Farm Products,Consumer Defensive
+239,SIPD.JK,Farm Products,Consumer Defensive
+240,SMAR.JK,Farm Products,Consumer Defensive
+241,SSMS.JK,Farm Products,Consumer Defensive
+242,TBLA.JK,Farm Products,Consumer Defensive
+243,UNSP.JK,Farm Products,Consumer Defensive
+244,CASA.JK,Financial Conglomerates,Financial Services
+245,SMMA.JK,Financial Conglomerates,Financial Services
+246,TGKA.JK,Food Distribution,Consumer Defensive
+247,WICO.JK,Food Distribution,Consumer Defensive
+248,BATA.JK,Footwear & Accessories,Consumer Cyclical
+249,BIMA.JK,Footwear & Accessories,Consumer Cyclical
+250,CINT.JK,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+251,CSIS.JK,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+252,GEMA.JK,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+253,KICI.JK,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+254,LMPI.JK,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+255,SPTO.JK,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+256,WOOD.JK,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+257,PSAB.JK,Gold,Basic Materials
+258,SQMI.JK,Gold,Basic Materials
+259,AMRT.JK,Grocery Stores,Consumer Defensive
+260,RANC.JK,Grocery Stores,Consumer Defensive
+261,MBTO.JK,Household & Personal Products,Consumer Defensive
+262,MICE.JK,Household & Personal Products,Consumer Defensive
+263,MRAT.JK,Household & Personal Products,Consumer Defensive
+264,TCID.JK,Household & Personal Products,Consumer Defensive
+265,UNVR.JK,Household & Personal Products,Consumer Defensive
+266,CSAP.JK,Industrial Distribution,Industrials
+267,HEXA.JK,Industrial Distribution,Industrials
+268,INTA.JK,Industrial Distribution,Industrials
+269,TIRA.JK,Industrial Distribution,Industrials
+270,ATIC.JK,Information Technology Services,Technology
+271,ENVY.JK,Information Technology Services,Technology
+272,MLPT.JK,Information Technology Services,Technology
+273,BIPI.JK,Infrastructure Operations,Industrials
+274,CMNP.JK,Infrastructure Operations,Industrials
+275,META.JK,Infrastructure Operations,Industrials
+276,TEBE.JK,Infrastructure Operations,Industrials
+277,AMAG.JK,Insurance—Diversified,Financial Services
+278,ASBI.JK,Insurance—Diversified,Financial Services
+279,ASMI.JK,Insurance—Diversified,Financial Services
+280,GSMF.JK,Insurance—Diversified,Financial Services
+281,LPGI.JK,Insurance—Diversified,Financial Services
+282,MTWI.JK,Insurance—Diversified,Financial Services
+283,TUGU.JK,Insurance—Diversified,Financial Services
+284,JMAS.JK,Insurance—Life,Financial Services
+285,LIFE.JK,Insurance—Life,Financial Services
+286,PNIN.JK,Insurance—Life,Financial Services
+287,PNLF.JK,Insurance—Life,Financial Services
+288,ABDA.JK,Insurance—Property & Casualty,Financial Services
+289,AHAP.JK,Insurance—Property & Casualty,Financial Services
+290,ASDM.JK,Insurance—Property & Casualty,Financial Services
+291,ASJT.JK,Insurance—Property & Casualty,Financial Services
+292,ASRM.JK,Insurance—Property & Casualty,Financial Services
+293,VINS.JK,Insurance—Property & Casualty,Financial Services
+294,MREI.JK,Insurance—Reinsurance,Financial Services
+295,DEAL.JK,Integrated Freight & Logistics,Industrials
+296,IPCC.JK,Integrated Freight & Logistics,Industrials
+297,KJEN.JK,Integrated Freight & Logistics,Industrials
+298,SAPX.JK,Integrated Freight & Logistics,Industrials
+299,TNCA.JK,Integrated Freight & Logistics,Industrials
+300,DIGI.JK,Internet Content & Information,Communication Services
+301,NFCX.JK,Internet Content & Information,Communication Services
+302,BOLA.JK,Leisure,Consumer Cyclical
+303,JGLE.JK,Leisure,Consumer Cyclical
+304,PJAA.JK,Leisure,Consumer Cyclical
+305,ARTA.JK,Lodging,Consumer Cyclical
+306,BUVA.JK,Lodging,Consumer Cyclical
+307,CLAY.JK,Lodging,Consumer Cyclical
+308,EAST.JK,Lodging,Consumer Cyclical
+309,FITT.JK,Lodging,Consumer Cyclical
+310,HOME.JK,Lodging,Consumer Cyclical
+311,HOTL.JK,Lodging,Consumer Cyclical
+312,HRME.JK,Lodging,Consumer Cyclical
+313,ICON.JK,Lodging,Consumer Cyclical
+314,IKAI.JK,Lodging,Consumer Cyclical
+315,INPP.JK,Lodging,Consumer Cyclical
+316,JIHD.JK,Lodging,Consumer Cyclical
+317,MABA.JK,Lodging,Consumer Cyclical
+318,MAMI.JK,Lodging,Consumer Cyclical
+319,MINA.JK,Lodging,Consumer Cyclical
+320,NATO.JK,Lodging,Consumer Cyclical
+321,NUSA.JK,Lodging,Consumer Cyclical
+322,PGLI.JK,Lodging,Consumer Cyclical
+323,PSKT.JK,Lodging,Consumer Cyclical
+324,SHID.JK,Lodging,Consumer Cyclical
+325,SOTS.JK,Lodging,Consumer Cyclical
+326,KAYU.JK,Lumber & Wood Production,Basic Materials
+327,SINI.JK,Lumber & Wood Production,Basic Materials
+328,SULI.JK,Lumber & Wood Production,Basic Materials
+329,TIRT.JK,Lumber & Wood Production,Basic Materials
+330,HRTA.JK,Luxury Goods,Consumer Cyclical
+331,BBRM.JK,Marine Shipping,Industrials
+332,BLTA.JK,Marine Shipping,Industrials
+333,BULL.JK,Marine Shipping,Industrials
+334,CANI.JK,Marine Shipping,Industrials
+335,HITS.JK,Marine Shipping,Industrials
+336,INDX.JK,Marine Shipping,Industrials
+337,IPCM.JK,Marine Shipping,Industrials
+338,KARW.JK,Marine Shipping,Industrials
+339,LEAD.JK,Marine Shipping,Industrials
+340,MBSS.JK,Marine Shipping,Industrials
+341,NELY.JK,Marine Shipping,Industrials
+342,PORT.JK,Marine Shipping,Industrials
+343,PSSI.JK,Marine Shipping,Industrials
+344,PTIS.JK,Marine Shipping,Industrials
+345,RIGS.JK,Marine Shipping,Industrials
+346,SMDR.JK,Marine Shipping,Industrials
+347,SOCI.JK,Marine Shipping,Industrials
+348,TAMU.JK,Marine Shipping,Industrials
+349,TCPI.JK,Marine Shipping,Industrials
+350,TMAS.JK,Marine Shipping,Industrials
+351,TPMA.JK,Marine Shipping,Industrials
+352,TRAM.JK,Marine Shipping,Industrials
+353,WINS.JK,Marine Shipping,Industrials
+354,HEAL.JK,Medical Care Facilities,Healthcare
+355,MIKA.JK,Medical Care Facilities,Healthcare
+356,PRIM.JK,Medical Care Facilities,Healthcare
+357,SAME.JK,Medical Care Facilities,Healthcare
+358,SILO.JK,Medical Care Facilities,Healthcare
+359,SRAJ.JK,Medical Care Facilities,Healthcare
+360,EPMT.JK,Medical Distribution,Healthcare
+361,IRRA.JK,Medical Distribution,Healthcare
+362,SDPC.JK,Medical Distribution,Healthcare
+363,MARK.JK,Medical Instruments & Supplies,Healthcare
+364,LMSH.JK,Metal Fabrication,Industrials
+365,NIKL.JK,Metal Fabrication,Industrials
+366,TBMS.JK,Metal Fabrication,Industrials
+367,APEX.JK,Oil & Gas Drilling,Energy
+368,ENRG.JK,Oil & Gas E&P,Energy
+369,MEDC.JK,Oil & Gas E&P,Energy
+370,MITI.JK,Oil & Gas E&P,Energy
+371,MTFN.JK,Oil & Gas E&P,Energy
+372,SUGI.JK,Oil & Gas E&P,Energy
+373,ARTI.JK,Oil & Gas Equipment & Services,Energy
+374,CTBN.JK,Oil & Gas Equipment & Services,Energy
+375,ELSA.JK,Oil & Gas Equipment & Services,Energy
+376,MIRA.JK,Oil & Gas Equipment & Services,Energy
+377,RUIS.JK,Oil & Gas Equipment & Services,Energy
+378,SHIP.JK,Oil & Gas Equipment & Services,Energy
+379,WOWS.JK,Oil & Gas Equipment & Services,Energy
+380,SURE.JK,Oil & Gas Integrated,Energy
+381,AKRA.JK,Oil & Gas Refining & Marketing,Energy
+382,ESSA.JK,Oil & Gas Refining & Marketing,Energy
+383,KOPI.JK,Oil & Gas Refining & Marketing,Energy
+384,ANTM.JK,Other Industrial Metals & Mining,Basic Materials
+385,BRMS.JK,Other Industrial Metals & Mining,Basic Materials
+386,CITA.JK,Other Industrial Metals & Mining,Basic Materials
+387,DKFT.JK,Other Industrial Metals & Mining,Basic Materials
+388,HDTX.JK,Other Industrial Metals & Mining,Basic Materials
+389,INCO.JK,Other Industrial Metals & Mining,Basic Materials
+390,ITMA.JK,Other Industrial Metals & Mining,Basic Materials
+391,MDKA.JK,Other Industrial Metals & Mining,Basic Materials
+392,PTRO.JK,Other Industrial Metals & Mining,Basic Materials
+393,PURE.JK,Other Industrial Metals & Mining,Basic Materials
+394,TINS.JK,Other Industrial Metals & Mining,Basic Materials
+395,UNTR.JK,Other Industrial Metals & Mining,Basic Materials
+396,ZINC.JK,Other Industrial Metals & Mining,Basic Materials
+397,AISA.JK,Packaged Foods,Consumer Defensive
+398,BEEF.JK,Packaged Foods,Consumer Defensive
+399,BUDI.JK,Packaged Foods,Consumer Defensive
+400,CAMP.JK,Packaged Foods,Consumer Defensive
+401,CEKA.JK,Packaged Foods,Consumer Defensive
+402,DPUM.JK,Packaged Foods,Consumer Defensive
+403,FOOD.JK,Packaged Foods,Consumer Defensive
+404,GOOD.JK,Packaged Foods,Consumer Defensive
+405,HOKI.JK,Packaged Foods,Consumer Defensive
+406,ICBP.JK,Packaged Foods,Consumer Defensive
+407,INDF.JK,Packaged Foods,Consumer Defensive
+408,KEJU.JK,Packaged Foods,Consumer Defensive
+409,MGRO.JK,Packaged Foods,Consumer Defensive
+410,MYOR.JK,Packaged Foods,Consumer Defensive
+411,PANI.JK,Packaged Foods,Consumer Defensive
+412,PCAR.JK,Packaged Foods,Consumer Defensive
+413,PSDN.JK,Packaged Foods,Consumer Defensive
+414,ROTI.JK,Packaged Foods,Consumer Defensive
+415,SKBM.JK,Packaged Foods,Consumer Defensive
+416,SKLT.JK,Packaged Foods,Consumer Defensive
+417,STTP.JK,Packaged Foods,Consumer Defensive
+418,ULTJ.JK,Packaged Foods,Consumer Defensive
+419,WAPO.JK,Packaged Foods,Consumer Defensive
+420,AKPI.JK,Packaging & Containers,Consumer Cyclical
+421,APLI.JK,Packaging & Containers,Consumer Cyclical
+422,BRNA.JK,Packaging & Containers,Consumer Cyclical
+423,ESIP.JK,Packaging & Containers,Consumer Cyclical
+424,FASW.JK,Packaging & Containers,Consumer Cyclical
+425,IGAR.JK,Packaging & Containers,Consumer Cyclical
+426,IPOL.JK,Packaging & Containers,Consumer Cyclical
+427,KDSI.JK,Packaging & Containers,Consumer Cyclical
+428,PBID.JK,Packaging & Containers,Consumer Cyclical
+429,PICO.JK,Packaging & Containers,Consumer Cyclical
+430,SIMA.JK,Packaging & Containers,Consumer Cyclical
+431,SMKL.JK,Packaging & Containers,Consumer Cyclical
+432,SWAT.JK,Packaging & Containers,Consumer Cyclical
+433,TALF.JK,Packaging & Containers,Consumer Cyclical
+434,TRST.JK,Packaging & Containers,Consumer Cyclical
+435,YPAS.JK,Packaging & Containers,Consumer Cyclical
+436,ALDO.JK,Paper & Paper Products,Basic Materials
+437,INKP.JK,Paper & Paper Products,Basic Materials
+438,INRU.JK,Paper & Paper Products,Basic Materials
+439,INTD.JK,Paper & Paper Products,Basic Materials
+440,KBRI.JK,Paper & Paper Products,Basic Materials
+441,SPMA.JK,Paper & Paper Products,Basic Materials
+442,TKIM.JK,Paper & Paper Products,Basic Materials
+443,ABBA.JK,Publishing,Communication Services
+444,LPLI.JK,Publishing,Communication Services
+445,TMPO.JK,Publishing,Communication Services
+446,BIRD.JK,Railroads,Industrials
+447,LRNA.JK,Railroads,Industrials
+448,SAFE.JK,Railroads,Industrials
+449,TAXI.JK,Railroads,Industrials
+450,WEHA.JK,Railroads,Industrials
+451,AKKU.JK,Real Estate Services,Real Estate
+452,ASRI.JK,Real Estate Services,Real Estate
+453,BEST.JK,Real Estate Services,Real Estate
+454,BKDP.JK,Real Estate Services,Real Estate
+455,CTRA.JK,Real Estate Services,Real Estate
+456,DART.JK,Real Estate Services,Real Estate
+457,DFAM.JK,Real Estate Services,Real Estate
+458,ELTY.JK,Real Estate Services,Real Estate
+459,EMDE.JK,Real Estate Services,Real Estate
+460,JRPT.JK,Real Estate Services,Real Estate
+461,JSPT.JK,Real Estate Services,Real Estate
+462,KOTA.JK,Real Estate Services,Real Estate
+463,KPIG.JK,Real Estate Services,Real Estate
+464,LAND.JK,Real Estate Services,Real Estate
+465,MKPI.JK,Real Estate Services,Real Estate
+466,MMLP.JK,Real Estate Services,Real Estate
+467,MTLA.JK,Real Estate Services,Real Estate
+468,MTSM.JK,Real Estate Services,Real Estate
+469,NASA.JK,Real Estate Services,Real Estate
+470,NICK.JK,Real Estate Services,Real Estate
+471,NIRO.JK,Real Estate Services,Real Estate
+472,OMRE.JK,Real Estate Services,Real Estate
+473,PLIN.JK,Real Estate Services,Real Estate
+474,POSA.JK,Real Estate Services,Real Estate
+475,PUDP.JK,Real Estate Services,Real Estate
+476,PWON.JK,Real Estate Services,Real Estate
+477,RDTX.JK,Real Estate Services,Real Estate
+478,APLN.JK,Real Estate—Development,Real Estate
+479,BAPA.JK,Real Estate—Development,Real Estate
+480,BAPI.JK,Real Estate—Development,Real Estate
+481,BCIP.JK,Real Estate—Development,Real Estate
+482,BIKA.JK,Real Estate—Development,Real Estate
+483,BKSL.JK,Real Estate—Development,Real Estate
+484,BSDE.JK,Real Estate—Development,Real Estate
+485,CITY.JK,Real Estate—Development,Real Estate
+486,COWL.JK,Real Estate—Development,Real Estate
+487,DILD.JK,Real Estate—Development,Real Estate
+488,DMAS.JK,Real Estate—Development,Real Estate
+489,DUTI.JK,Real Estate—Development,Real Estate
+490,FMII.JK,Real Estate—Development,Real Estate
+491,FORZ.JK,Real Estate—Development,Real Estate
+492,GAMA.JK,Real Estate—Development,Real Estate
+493,GMTD.JK,Real Estate—Development,Real Estate
+494,GPRA.JK,Real Estate—Development,Real Estate
+495,GWSA.JK,Real Estate—Development,Real Estate
+496,LCGP.JK,Real Estate—Development,Real Estate
+497,LPCK.JK,Real Estate—Development,Real Estate
+498,LPKR.JK,Real Estate—Development,Real Estate
+499,MDLN.JK,Real Estate—Development,Real Estate
+500,MPRO.JK,Real Estate—Development,Real Estate
+501,MYRX.JK,Real Estate—Development,Real Estate
+502,MYRXP.JK,Real Estate—Development,Real Estate
+503,NZIA.JK,Real Estate—Development,Real Estate
+504,POLI.JK,Real Estate—Development,Real Estate
+505,POLL.JK,Real Estate—Development,Real Estate
+506,PPRO.JK,Real Estate—Development,Real Estate
+507,RBMS.JK,Real Estate—Development,Real Estate
+508,RIMO.JK,Real Estate—Development,Real Estate
+509,RISE.JK,Real Estate—Development,Real Estate
+510,RODA.JK,Real Estate—Development,Real Estate
+511,SATU.JK,Real Estate—Development,Real Estate
+512,SMDM.JK,Real Estate—Development,Real Estate
+513,SMRA.JK,Real Estate—Development,Real Estate
+514,URBN.JK,Real Estate—Development,Real Estate
+515,ARMY.JK,Real Estate—Diversified,Real Estate
+516,BIPP.JK,Real Estate—Diversified,Real Estate
+517,CPRI.JK,Real Estate—Diversified,Real Estate
+518,PAMG.JK,Real Estate—Diversified,Real Estate
+519,TARA.JK,Real Estate—Diversified,Real Estate
+520,AKSI.JK,Rental & Leasing Services,Industrials
+521,ASSA.JK,Rental & Leasing Services,Industrials
+522,BPTR.JK,Rental & Leasing Services,Industrials
+523,SKRN.JK,Rental & Leasing Services,Industrials
+524,PNSE.JK,Resorts & Casinos,Consumer Cyclical
+525,DUCK.JK,Restaurants,Consumer Cyclical
+526,FAST.JK,Restaurants,Consumer Cyclical
+527,MAPB.JK,Restaurants,Consumer Cyclical
+528,PTSP.JK,Restaurants,Consumer Cyclical
+529,PZZA.JK,Restaurants,Consumer Cyclical
+530,DIVA.JK,Software—Application,Technology
+531,HDIT.JK,Software—Application,Technology
+532,KIOS.JK,Software—Application,Technology
+533,JSKY.JK,Solar,Technology
+534,ARKA.JK,Specialty Business Services,Industrials
+535,ASGR.JK,Specialty Business Services,Industrials
+536,JTPE.JK,Specialty Business Services,Industrials
+537,MFMI.JK,Specialty Business Services,Industrials
+538,ADMG.JK,Specialty Chemicals,Basic Materials
+539,CLPI.JK,Specialty Chemicals,Basic Materials
+540,DPNS.JK,Specialty Chemicals,Basic Materials
+541,EKAD.JK,Specialty Chemicals,Basic Materials
+542,FPNI.JK,Specialty Chemicals,Basic Materials
+543,INCF.JK,Specialty Chemicals,Basic Materials
+544,INCI.JK,Specialty Chemicals,Basic Materials
+545,LTLS.JK,Specialty Chemicals,Basic Materials
+546,MDKI.JK,Specialty Chemicals,Basic Materials
+547,POLY.JK,Specialty Chemicals,Basic Materials
+548,TDPM.JK,Specialty Chemicals,Basic Materials
+549,TPIA.JK,Specialty Chemicals,Basic Materials
+550,AMIN.JK,Specialty Industrial Machinery,Industrials
+551,KRAH.JK,Specialty Industrial Machinery,Industrials
+552,ACES.JK,Specialty Retail,Consumer Cyclical
+553,DAYA.JK,Specialty Retail,Consumer Cyclical
+554,ECII.JK,Specialty Retail,Consumer Cyclical
+555,ERAA.JK,Specialty Retail,Consumer Cyclical
+556,GLOB.JK,Specialty Retail,Consumer Cyclical
+557,HADE.JK,Specialty Retail,Consumer Cyclical
+558,KONI.JK,Specialty Retail,Consumer Cyclical
+559,MAPA.JK,Specialty Retail,Consumer Cyclical
+560,TELE.JK,Specialty Retail,Consumer Cyclical
+561,ZBRA.JK,Specialty Retail,Consumer Cyclical
+562,SOSS.JK,Staffing & Employment Services,Industrials
+563,TFAS.JK,Staffing & Employment Services,Industrials
+564,BAJA.JK,Steel,Basic Materials
+565,BTON.JK,Steel,Basic Materials
+566,GDST.JK,Steel,Basic Materials
+567,GGRP.JK,Steel,Basic Materials
+568,ISSP.JK,Steel,Basic Materials
+569,JKSW.JK,Steel,Basic Materials
+570,KRAS.JK,Steel,Basic Materials
+571,BALI.JK,Telecom Services,Communication Services
+572,BTEL.JK,Telecom Services,Communication Services
+573,CENT.JK,Telecom Services,Communication Services
+574,DNET.JK,Telecom Services,Communication Services
+575,EXCL.JK,Telecom Services,Communication Services
+576,FREN.JK,Telecom Services,Communication Services
+577,GHON.JK,Telecom Services,Communication Services
+578,GOLD.JK,Telecom Services,Communication Services
+579,IBST.JK,Telecom Services,Communication Services
+580,ISAT.JK,Telecom Services,Communication Services
+581,JAST.JK,Telecom Services,Communication Services
+582,LCKM.JK,Telecom Services,Communication Services
+583,LINK.JK,Telecom Services,Communication Services
+584,SKYB.JK,Telecom Services,Communication Services
+585,TBIG.JK,Telecom Services,Communication Services
+586,TLKM.JK,Telecom Services,Communication Services
+587,TOWR.JK,Telecom Services,Communication Services
+588,ARGO.JK,Textile Manufacturing,Consumer Cyclical
+589,BELL.JK,Textile Manufacturing,Consumer Cyclical
+590,CNTX.JK,Textile Manufacturing,Consumer Cyclical
+591,ESTI.JK,Textile Manufacturing,Consumer Cyclical
+592,INDR.JK,Textile Manufacturing,Consumer Cyclical
+593,KPAS.JK,Textile Manufacturing,Consumer Cyclical
+594,MYTX.JK,Textile Manufacturing,Consumer Cyclical
+595,SRIL.JK,Textile Manufacturing,Consumer Cyclical
+596,SSTM.JK,Textile Manufacturing,Consumer Cyclical
+597,TFCO.JK,Textile Manufacturing,Consumer Cyclical
+598,ABMM.JK,Thermal Coal,Energy
+599,ADRO.JK,Thermal Coal,Energy
+600,AIMS.JK,Thermal Coal,Energy
+601,ARII.JK,Thermal Coal,Energy
+602,BOSS.JK,Thermal Coal,Energy
+603,BSSR.JK,Thermal Coal,Energy
+604,BUMI.JK,Thermal Coal,Energy
+605,BYAN.JK,Thermal Coal,Energy
+606,CNKO.JK,Thermal Coal,Energy
+607,DEWA.JK,Thermal Coal,Energy
+608,DOID.JK,Thermal Coal,Energy
+609,DSSA.JK,Thermal Coal,Energy
+610,DWGL.JK,Thermal Coal,Energy
+611,FIRE.JK,Thermal Coal,Energy
+612,GEMS.JK,Thermal Coal,Energy
+613,GTBO.JK,Thermal Coal,Energy
+614,HRUM.JK,Thermal Coal,Energy
+615,INDY.JK,Thermal Coal,Energy
+616,ITMG.JK,Thermal Coal,Energy
+617,KKGI.JK,Thermal Coal,Energy
+618,MBAP.JK,Thermal Coal,Energy
+619,MYOH.JK,Thermal Coal,Energy
+620,PTBA.JK,Thermal Coal,Energy
+621,SMMT.JK,Thermal Coal,Energy
+622,SMRU.JK,Thermal Coal,Energy
+623,TOBA.JK,Thermal Coal,Energy
+624,GGRM.JK,Tobacco,Consumer Defensive
+625,HMSP.JK,Tobacco,Consumer Defensive
+626,ITIC.JK,Tobacco,Consumer Defensive
+627,RMBA.JK,Tobacco,Consumer Defensive
+628,WIIM.JK,Tobacco,Consumer Defensive
+629,APII.JK,Tools & Accessories,Industrials
+630,BOLT.JK,Tools & Accessories,Industrials
+631,BAYU.JK,Travel Services,Consumer Cyclical
+632,PANR.JK,Travel Services,Consumer Cyclical
+633,PDES.JK,Travel Services,Consumer Cyclical
+634,SONA.JK,Travel Services,Consumer Cyclical
+635,YELO.JK,Travel Services,Consumer Cyclical
+636,INPS.JK,Trucking,Industrials
+637,JAYA.JK,Trucking,Industrials
+638,SDMU.JK,Trucking,Industrials
+639,TRUK.JK,Trucking,Industrials
+640,KEEN.JK,Utilities—Independent Power Producers,Utilities
+641,LAPD.JK,Utilities—Independent Power Producers,Utilities
+642,MPOW.JK,Utilities—Independent Power Producers,Utilities
+643,POWR.JK,Utilities—Independent Power Producers,Utilities
+644,PGAS.JK,Utilities—Regulated Gas,Utilities
+645,RAJA.JK,Utilities—Regulated Gas,Utilities
+646,TGRA.JK,Utilities—Renewable,Utilities
+647,INOV.JK,Waste Management,Industrials
+648,OPMS.JK,Waste Management,Industrials
